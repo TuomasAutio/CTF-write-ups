@@ -1,6 +1,6 @@
 # CTF Write Ups
 
-This repository is dedicated to some of the CTF's that i bothered to write about.
+This repository is dedicated to some of the CTF's that I bothered to write about.
 
 ## Completed CTF's
 
