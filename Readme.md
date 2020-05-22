@@ -23,7 +23,9 @@ Password III\
 Rise of the monkeys\
 Cyber crime does pay\
 Password IV\
-Head banger 
+Head banger \
+Dr. Kyberzig: Last stand\
+Steganography IV \
 
 ### [Nixu Challenges](https://thenixuchallenge.com/)
 
