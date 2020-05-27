@@ -9,11 +9,17 @@ This repository is dedicated to some of the CTF's that I bothered to write about
 All
 
 ### [Nixu Challenges](https://thenixuchallenge.com/)
+
 **2018**
->crackme1\
+
+>crackme1
+
 **2019**
->lisby1\
+
+>lisby1
+
 **2020**
+
 >numb3rs\
 3dprint\
-stegoböögö\
+stegoböögö
